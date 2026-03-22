@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "8h6QL2HBN0_-5SrLDRXT9UPFVNkxv1fy",
+        "plugin": "obsidian-show-file-path",
+        "language": "zh-cn",
+        "version": "0.5.2",
+        "supported_versions": "0.5.2",
+        "title": "Show Current File Path",
+        "description": "Show Current File Path Localization & Tweaks",
+        "hash": "4628a3a04628a3a04628a3a04628a3a0",
+        "created_at": "2026-03-22T15:00:33.716Z",
+        "updated_at": "2026-03-22T15:00:33.716Z",
+        "type": "plugin"
+    }
+]

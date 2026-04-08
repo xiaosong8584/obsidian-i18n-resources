@@ -245,5 +245,18 @@
         "created_at": "2026-04-08T07:39:58.985Z",
         "updated_at": "2026-04-08T07:39:58.985Z",
         "type": "plugin"
+    },
+    {
+        "id": "OvQm7suBh7ja_WFD8cBdZY0wW7oWw_WC",
+        "plugin": "ProxyGithub",
+        "language": "zh-cn",
+        "version": "1.15.0",
+        "supported_versions": "1.15.0",
+        "title": "proxy github",
+        "description": "proxy github Localization & Tweaks",
+        "hash": "2ce7982e2ce7982e2ce7982e2ce7982e",
+        "created_at": "2026-04-08T07:44:11.888Z",
+        "updated_at": "2026-04-08T07:44:11.888Z",
+        "type": "plugin"
     }
 ]

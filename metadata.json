@@ -297,5 +297,18 @@
         "created_at": "2026-04-08T07:46:48.846Z",
         "updated_at": "2026-04-08T07:46:48.846Z",
         "type": "plugin"
+    },
+    {
+        "id": "dPkoKn0SHY34TVkdBEl0b9tqgNQhjxfA",
+        "plugin": "obsidian42-brat",
+        "language": "zh-cn",
+        "version": "1.1.7",
+        "supported_versions": "1.1.7",
+        "title": "BRAT",
+        "description": "Easily install a beta version of a plugin for testing.",
+        "hash": "0caa22f80caa22f80caa22f80caa22f8",
+        "created_at": "2026-04-08T07:46:58.216Z",
+        "updated_at": "2026-04-08T07:46:58.216Z",
+        "type": "plugin"
     }
 ]

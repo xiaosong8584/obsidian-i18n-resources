@@ -336,5 +336,18 @@
         "created_at": "2026-04-08T07:47:22.900Z",
         "updated_at": "2026-04-08T07:47:22.900Z",
         "type": "plugin"
+    },
+    {
+        "id": "B-_CQIhCmBz25i49yFMFlpNH-klShUPn",
+        "plugin": "tars",
+        "language": "zh-cn",
+        "version": "3.5.2",
+        "supported_versions": "3.5.2",
+        "title": "Tars",
+        "description": "Tars Localization & Tweaks",
+        "hash": "1edc9ac41edc9ac41edc9ac41edc9ac4",
+        "created_at": "2026-04-08T07:47:38.795Z",
+        "updated_at": "2026-04-08T07:47:38.795Z",
+        "type": "plugin"
     }
 ]

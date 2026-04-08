@@ -63,5 +63,18 @@
         "created_at": "2026-04-08T07:26:55.985Z",
         "updated_at": "2026-04-08T07:26:55.985Z",
         "type": "plugin"
+    },
+    {
+        "id": "zUTJ_QTwcVr6lU86_JwKy7dNfUQJ2EPl",
+        "plugin": "execute-code",
+        "language": "zh-cn",
+        "version": "1.12.0",
+        "supported_versions": "1.12.0",
+        "title": "Execute Code",
+        "description": "Allows to execute code snippets within a note. Supported programming languages:  C, CPP, Dart, Golang, Groovy, Kotlin, Java, JavaScript, TypeScript, Lean, Lua, CSharp, Prolog, Rust, Python, R, Ruby, Wolfram Mathematica, Haskell, Scala, Racket, F#, Batch, Shell & Powershell.",
+        "hash": "7dcc28e57dcc28e57dcc28e57dcc28e5",
+        "created_at": "2026-04-08T07:27:16.810Z",
+        "updated_at": "2026-04-08T07:27:16.810Z",
+        "type": "plugin"
     }
 ]

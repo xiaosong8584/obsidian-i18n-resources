@@ -258,5 +258,18 @@
         "created_at": "2026-04-08T07:44:11.888Z",
         "updated_at": "2026-04-08T07:44:11.888Z",
         "type": "plugin"
+    },
+    {
+        "id": "7shVKRmdhtVBbaqwrqP3kvbvapofcfc_",
+        "plugin": "obsidian-tasks-plugin",
+        "language": "zh-cn",
+        "version": "7.14.0",
+        "supported_versions": "7.14.0",
+        "title": "Tasks",
+        "description": "Track tasks across your vault. Supports due dates, recurring tasks, done dates, sub-set of checklist items, and filtering.",
+        "hash": "75f99e8575f99e8575f99e8575f99e85",
+        "created_at": "2026-04-08T07:44:59.855Z",
+        "updated_at": "2026-04-08T07:44:59.855Z",
+        "type": "plugin"
     }
 ]

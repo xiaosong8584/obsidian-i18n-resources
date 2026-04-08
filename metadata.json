@@ -232,5 +232,18 @@
         "created_at": "2026-04-08T07:31:42.451Z",
         "updated_at": "2026-04-08T07:31:42.451Z",
         "type": "plugin"
+    },
+    {
+        "id": "w40ryHfjZdjvM4T_ZgYInxrA9j5ecaeA",
+        "plugin": "obsidian-pandoc",
+        "language": "zh-cn",
+        "version": "0.4.1",
+        "supported_versions": "0.4.1",
+        "title": "Pandoc Plugin",
+        "description": "This is a Pandoc export plugin for Obsidian. It provides commands to export to formats like DOCX, ePub and PDF.",
+        "hash": "6295d0606295d0606295d0606295d060",
+        "created_at": "2026-04-08T07:39:58.985Z",
+        "updated_at": "2026-04-08T07:39:58.985Z",
+        "type": "plugin"
     }
 ]

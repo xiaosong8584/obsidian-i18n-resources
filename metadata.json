@@ -128,5 +128,18 @@
         "created_at": "2026-04-08T07:28:47.695Z",
         "updated_at": "2026-04-08T07:28:47.695Z",
         "type": "plugin"
+    },
+    {
+        "id": "HmIUrRfVTGYS9lGQuXSa510Cj8pFrte5",
+        "plugin": "mp-preview",
+        "language": "zh-cn",
+        "version": "1.0.6",
+        "supported_versions": "1.0.6",
+        "title": "MP Preview",
+        "description": "MP Preview Localization & Tweaks",
+        "hash": "013c2864013c2864013c2864013c2864",
+        "created_at": "2026-04-08T07:29:05.416Z",
+        "updated_at": "2026-04-08T07:29:05.416Z",
+        "type": "plugin"
     }
 ]

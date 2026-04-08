@@ -102,5 +102,18 @@
         "created_at": "2026-04-08T07:27:56.467Z",
         "updated_at": "2026-04-08T07:27:56.467Z",
         "type": "plugin"
+    },
+    {
+        "id": "eOEHGfdyG0qgyx9JTFpLGOPy3SjcblGN",
+        "plugin": "metadata-menu",
+        "language": "zh-cn",
+        "version": "0.8.7",
+        "supported_versions": "0.8.7",
+        "title": "Metadata Menu",
+        "description": "For data quality enthusiasts (and dataview users): manage the metadata of your notes.",
+        "hash": "012284c8012284c8012284c8012284c8",
+        "created_at": "2026-04-08T07:28:30.979Z",
+        "updated_at": "2026-04-08T07:28:30.979Z",
+        "type": "plugin"
     }
 ]

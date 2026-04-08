@@ -1,0 +1,128 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "ProxyGithub",
+        "version": "1.0.0",
+        "title": "proxy github",
+        "description": "proxy github Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.15.0",
+        "author": "Snoopy.Xiao"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "请选择",
+                    "target": "请选择"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "apc注册成功",
+                    "target": "apc注册成功"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "加载了tab~~~~~~~~~~~~~~~~~~~~~~",
+                    "target": "加载了tab~~~~~~~~~~~~~~~~~~~~~~"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "代理服务器",
+                    "target": "代理服务器"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "请求成功：",
+                    "target": "请求成功："
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "请求成功12",
+                    "target": "请求成功12"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "加载@capacitor-community/http出错",
+                    "target": "加载@capacitor-community/http出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "https.get成功",
+                    "target": "https.get成功"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "https.get处理数据成功",
+                    "target": "https.get处理数据成功"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "https.get处理数据失败",
+                    "target": "https.get处理数据失败"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "https.get失败",
+                    "target": "https.get失败"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "导入http出错",
+                    "target": "导入http出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "正在通过 ProxyGithub 来代理访问社区插件！",
+                    "target": "正在通过 ProxyGithub 来代理访问社区插件！"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "添加 ProxyGithub 代理访问社区插件！",
+                    "target": "添加 ProxyGithub 代理访问社区插件！"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "Notice(\"正在通过 ProxyGithub 来代理访问社区插件！\")",
+                    "target": "Notice(\"正在通过 ProxyGithub 来代理访问社区插件！\")"
+                },
+                {
+                    "source": "log(\"apc注册成功\")",
+                    "target": "log(\"apc注册成功\")"
+                },
+                {
+                    "source": "log(\"加载了tab~~~~~~~~~~~~~~~~~~~~~~\")",
+                    "target": "log(\"加载了tab~~~~~~~~~~~~~~~~~~~~~~\")"
+                },
+                {
+                    "source": "setName('代理服务器')",
+                    "target": "setName('代理服务器')"
+                },
+                {
+                    "source": "setDesc(`通过选择不同的服务器来切换代理，可以解决某些情况下，某个服务器无法访问的情况。当前代理服务器：${this.plugin.settings.server}`)",
+                    "target": "setDesc(`通过选择不同的服务器来切换代理，可以解决某些情况下，某个服务器无法访问的情况。当前代理服务器：${this.plugin.settings.server}`)"
+                },
+                {
+                    "source": "Notice(\"添加 ProxyGithub 代理访问社区插件！\")",
+                    "target": "Notice(\"添加 ProxyGithub 代理访问社区插件！\")"
+                }
+            ]
+        }
+    }
+}

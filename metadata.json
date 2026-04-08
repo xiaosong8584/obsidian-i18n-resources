@@ -323,5 +323,18 @@
         "created_at": "2026-04-08T07:47:09.342Z",
         "updated_at": "2026-04-08T07:47:09.342Z",
         "type": "plugin"
+    },
+    {
+        "id": "0_M20G_3hWvwP-hCff9bspkVbhbHLHsr",
+        "plugin": "tag-wrangler",
+        "language": "zh-cn",
+        "version": "0.6.4",
+        "supported_versions": "0.6.4",
+        "title": "Tag Wrangler",
+        "description": "Rename, merge, toggle, and search tags from the tag pane",
+        "hash": "78babc6978babc6978babc6978babc69",
+        "created_at": "2026-04-08T07:47:22.900Z",
+        "updated_at": "2026-04-08T07:47:22.900Z",
+        "type": "plugin"
     }
 ]

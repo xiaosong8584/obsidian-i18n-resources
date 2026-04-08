@@ -154,5 +154,18 @@
         "created_at": "2026-04-08T07:29:23.520Z",
         "updated_at": "2026-04-08T07:29:23.520Z",
         "type": "plugin"
+    },
+    {
+        "id": "Hy-opYU1eo1-CgkYJ4uYto_liCFF-9n9",
+        "plugin": "obsidian-annotator",
+        "language": "zh-cn",
+        "version": "0.2.11",
+        "supported_versions": "0.2.11",
+        "title": "Annotator",
+        "description": "This is a sample plugin for Obsidian. It allows you to open and annotate PDF and EPUB files.",
+        "hash": "2429c7ba2429c7ba2429c7ba2429c7ba",
+        "created_at": "2026-04-08T07:29:43.483Z",
+        "updated_at": "2026-04-08T07:29:43.483Z",
+        "type": "plugin"
     }
 ]

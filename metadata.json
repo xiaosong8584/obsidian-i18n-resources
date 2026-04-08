@@ -284,5 +284,18 @@
         "created_at": "2026-04-08T07:46:33.325Z",
         "updated_at": "2026-04-08T07:46:33.325Z",
         "type": "plugin"
+    },
+    {
+        "id": "ydsCbAt2GQkUJsuHBmAk8VQcuh5ll1WA",
+        "plugin": "obsidian-weread-plugin",
+        "language": "zh-cn",
+        "version": "0.15.1",
+        "supported_versions": "0.15.1",
+        "title": "Weread",
+        "description": "Weread Localization & Tweaks",
+        "hash": "74c4f33374c4f33374c4f33374c4f333",
+        "created_at": "2026-04-08T07:46:48.846Z",
+        "updated_at": "2026-04-08T07:46:48.846Z",
+        "type": "plugin"
     }
 ]

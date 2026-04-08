@@ -349,5 +349,18 @@
         "created_at": "2026-04-08T07:47:38.795Z",
         "updated_at": "2026-04-08T07:47:38.795Z",
         "type": "plugin"
+    },
+    {
+        "id": "YLDYlfOa5jm6KlFOmQjmY49zFAJR9ME4",
+        "plugin": "vscode-editor",
+        "language": "zh-cn",
+        "version": "1.0.5",
+        "supported_versions": "1.0.5",
+        "title": "VSCode Editor",
+        "description": "VSCode Editor Localization & Tweaks",
+        "hash": "3ff4ead43ff4ead43ff4ead43ff4ead4",
+        "created_at": "2026-04-08T07:47:51.338Z",
+        "updated_at": "2026-04-08T07:47:51.338Z",
+        "type": "plugin"
     }
 ]

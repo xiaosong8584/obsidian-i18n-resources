@@ -115,5 +115,18 @@
         "created_at": "2026-04-08T07:28:30.979Z",
         "updated_at": "2026-04-08T07:28:30.979Z",
         "type": "plugin"
+    },
+    {
+        "id": "pCg9sThrLh1hC6Vk3kKUJYBVYPLjvl54",
+        "plugin": "mousewheel-image-zoom",
+        "language": "zh-cn",
+        "version": "1.0.23",
+        "supported_versions": "1.0.23",
+        "title": "Mousewheel Image zoom",
+        "description": "This plugin enables you to increase/decrease the size of an image by scrolling",
+        "hash": "725cd5f0725cd5f0725cd5f0725cd5f0",
+        "created_at": "2026-04-08T07:28:47.695Z",
+        "updated_at": "2026-04-08T07:28:47.695Z",
+        "type": "plugin"
     }
 ]

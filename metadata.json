@@ -50,5 +50,18 @@
         "created_at": "2026-04-08T07:26:35.080Z",
         "updated_at": "2026-04-08T07:26:35.080Z",
         "type": "plugin"
+    },
+    {
+        "id": "dQ3RyKJCuS7S4zDxRUEMkv0i8bCwP6Fj",
+        "plugin": "editing-toolbar",
+        "language": "zh-cn",
+        "version": "3.1.13",
+        "supported_versions": "3.1.13",
+        "title": "Editing Toolbar",
+        "description": "The Obsidian Editing Toolbar is modified from cmenu, which provides more powerful customization settings and has many built-in editing commands to be a MS Word-like toolbar editing experience.",
+        "hash": "6e8ac1b26e8ac1b26e8ac1b26e8ac1b2",
+        "created_at": "2026-04-08T07:26:55.985Z",
+        "updated_at": "2026-04-08T07:26:55.985Z",
+        "type": "plugin"
     }
 ]

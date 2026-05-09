@@ -1,0 +1,55 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "settings-search",
+        "version": "2.0.1",
+        "title": "Settings Search",
+        "description": "Globally search settings in Obsidian.md",
+        "language": "zh-cn",
+        "supportedVersions": "1.3.10",
+        "author": "Snoopy.Xiao"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [],
+            "regex": [
+                {
+                    "source": ".setText(\"No results found :(\")",
+                    "target": ".setText(\"未找到结果 :(\")"
+                },
+                {
+                    "source": ".setPlaceholder(\"Search settings...\")",
+                    "target": ".setPlaceholder(\"搜索设置……\")"
+                },
+                {
+                    "source": ".setTooltip(`Open ${resource.text} Settings`)",
+                    "target": ".setTooltip(`打开${resource.text}设置`)"
+                },
+                {
+                    "source": ".createEl(\"h3\", {\n        text: \"Settings Search Results\"\n      })",
+                    "target": ".createEl(\"h3\", {\n        text: \"搜索结果\"\n      })"
+                },
+                {
+                    "source": "setTooltip(`Open ${resource.text} Settings`)",
+                    "target": "setTooltip(`Open ${resource.text} Settings`)"
+                },
+                {
+                    "source": "setPlaceholder(\"Search settings...\")",
+                    "target": "setPlaceholder(\"Search settings...\")"
+                },
+                {
+                    "source": "setText(\"No results found :(\")",
+                    "target": "setText(\"No results found :(\")"
+                },
+                {
+                    "source": "Notice(\"There was an issue opening the setting tab.\")",
+                    "target": "Notice(\"There was an issue opening the setting tab.\")"
+                },
+                {
+                    "source": "text: \"Settings Search Results\"",
+                    "target": "text: \"Settings Search Results\""
+                }
+            ]
+        }
+    }
+}

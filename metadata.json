@@ -401,5 +401,18 @@
         "created_at": "2026-05-09T13:07:08.072Z",
         "updated_at": "2026-05-09T13:07:08.072Z",
         "type": "plugin"
+    },
+    {
+        "id": "BhxZ0wK6isndVO22fxZvhI2ATdEoqr2G",
+        "plugin": "omnisearch",
+        "language": "zh-cn",
+        "version": "1.28.2",
+        "supported_versions": "1.28.2",
+        "title": "Omnisearch",
+        "description": "Omnisearch Localization & Tweaks",
+        "hash": "69cc178a69cc178a69cc178a69cc178a",
+        "created_at": "2026-05-09T13:07:25.838Z",
+        "updated_at": "2026-05-09T13:07:25.838Z",
+        "type": "plugin"
     }
 ]

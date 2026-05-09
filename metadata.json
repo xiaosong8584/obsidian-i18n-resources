@@ -388,5 +388,18 @@
         "created_at": "2026-05-09T12:45:28.447Z",
         "updated_at": "2026-05-09T12:45:28.447Z",
         "type": "theme"
+    },
+    {
+        "id": "wHyIMx1CAu-Az8YoKUqQHZkvBlfPq3T9",
+        "plugin": "recent-files-obsidian",
+        "language": "zh-cn",
+        "version": "1.7.6",
+        "supported_versions": "1.7.6",
+        "title": "Recent Files",
+        "description": "Recent Files Localization & Tweaks",
+        "hash": "72fa7d0472fa7d0472fa7d0472fa7d04",
+        "created_at": "2026-05-09T13:07:08.072Z",
+        "updated_at": "2026-05-09T13:07:08.072Z",
+        "type": "plugin"
     }
 ]

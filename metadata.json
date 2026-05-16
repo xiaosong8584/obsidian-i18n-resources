@@ -466,5 +466,18 @@
         "created_at": "2026-05-16T17:04:45.971Z",
         "updated_at": "2026-05-16T17:04:45.971Z",
         "type": "plugin"
+    },
+    {
+        "id": "nodadNXrupJXR03fu-3Kf4s_Klz7Q8jQ",
+        "plugin": "note-refactor-obsidian",
+        "language": "zh-cn",
+        "version": "1.8.2",
+        "supported_versions": "1.8.2",
+        "title": "Note Refactor",
+        "description": "Extract note content into new notes and split notes",
+        "hash": "7476d5db7476d5db7476d5db7476d5db",
+        "created_at": "2026-05-16T17:05:32.128Z",
+        "updated_at": "2026-05-16T17:05:32.128Z",
+        "type": "plugin"
     }
 ]

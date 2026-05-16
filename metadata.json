@@ -479,5 +479,18 @@
         "created_at": "2026-05-16T17:05:32.128Z",
         "updated_at": "2026-05-16T17:05:32.128Z",
         "type": "plugin"
+    },
+    {
+        "id": "MXQvIokvYKlSPtf1XO5zEo-jQgqpWIqX",
+        "plugin": "url-into-selection",
+        "language": "zh-cn",
+        "version": "1.11.4",
+        "supported_versions": "1.11.4",
+        "title": "Paste URL into selection",
+        "description": "Paste URL into selection Localization & Tweaks",
+        "hash": "2a3371702a3371702a3371702a337170",
+        "created_at": "2026-05-16T17:05:58.660Z",
+        "updated_at": "2026-05-16T17:05:58.660Z",
+        "type": "plugin"
     }
 ]

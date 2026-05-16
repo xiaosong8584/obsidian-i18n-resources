@@ -440,5 +440,18 @@
         "created_at": "2026-05-16T14:52:58.526Z",
         "updated_at": "2026-05-16T14:52:58.526Z",
         "type": "plugin"
+    },
+    {
+        "id": "jJ5AvQHcdhe_eEzmqJRQR9zPwlhk0d9f",
+        "plugin": "oz-clear-unused-images",
+        "language": "zh-cn",
+        "version": "1.1.1",
+        "supported_versions": "1.1.1",
+        "title": "Clear Unused Images",
+        "description": "Clear the images that you are not using anymore in your markdown notes to save space.",
+        "hash": "2357e2f42357e2f42357e2f42357e2f4",
+        "created_at": "2026-05-16T17:04:10.992Z",
+        "updated_at": "2026-05-16T17:04:10.992Z",
+        "type": "plugin"
     }
 ]

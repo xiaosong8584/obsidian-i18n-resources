@@ -453,5 +453,18 @@
         "created_at": "2026-05-16T17:04:10.992Z",
         "updated_at": "2026-05-16T17:04:10.992Z",
         "type": "plugin"
+    },
+    {
+        "id": "qrmLSs3dvo0rMfejvcKxkz7FVNGEWR_v",
+        "plugin": "obsidian-day-planner",
+        "language": "zh-cn",
+        "version": "0.28.0",
+        "supported_versions": "0.28.0",
+        "title": "Day Planner",
+        "description": "Day Planner Localization & Tweaks",
+        "hash": "6ab793856ab793856ab793856ab79385",
+        "created_at": "2026-05-16T17:04:45.971Z",
+        "updated_at": "2026-05-16T17:04:45.971Z",
+        "type": "plugin"
     }
 ]

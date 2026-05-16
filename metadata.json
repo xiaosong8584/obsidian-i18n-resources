@@ -492,5 +492,18 @@
         "created_at": "2026-05-16T17:05:58.660Z",
         "updated_at": "2026-05-16T17:05:58.660Z",
         "type": "plugin"
+    },
+    {
+        "id": "zm-qM685TjvShsyffycMn_DcUYz8xkhH",
+        "plugin": "obsidian42-strange-new-worlds",
+        "language": "zh-cn",
+        "version": "2.3.5",
+        "supported_versions": "2.3.5",
+        "title": "Strange New Worlds",
+        "description": "Help see how your vault is interconnected with visual indicators.",
+        "hash": "6faa37616faa37616faa37616faa3761",
+        "created_at": "2026-05-16T17:06:26.154Z",
+        "updated_at": "2026-05-16T17:06:26.154Z",
+        "type": "plugin"
     }
 ]
